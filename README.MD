@@ -21,3 +21,4 @@ Though this spa router is not good, it is functional. Its features and my logic:
 
 # file containing my SPA router logic
 
+https://github.com/arjun703/Mimicly/blob/main/htdocs/updatediv.js
